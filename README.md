@@ -1,4 +1,4 @@
-Bulk Render is a render program that takes multiple Blend files and renders their frame range in a queue!
+Batch Render is a render program that takes multiple Blend files and renders their frame range in a queue!
 
 # Installation
 Requirements:
